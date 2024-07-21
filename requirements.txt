@@ -1,0 +1,7 @@
+numpy
+matplotlib
+eqsig
+tqdm
+torch
+pandas
+ray[tune]
